@@ -1,2 +1,2 @@
 # LDS-paper
-To provide a editable paper list for LDS homepage
+To provide an editable paper list for LDS homepage
