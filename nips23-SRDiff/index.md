@@ -1,0 +1,32 @@
+---
+title: 'Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion'
+authors:
+  - zhengyiyang
+  - jiancanwu
+  - zhicaiwang
+  - xiangwang
+  - yanchengyuan
+  - xiangnanhe
+
+date: '2023-09-22T00:00:00Z'
+doi: ''
+publishDate: '2023-09-22T00:00:00Z'
+publication_types: ['1']
+publication: In NeurIPS 2023 
+publication_short: In NeurIPS 2023 
+
+abstract: ""
+featured: true
+
+links:
+
+url_pdf: https://neurips.cc/virtual/2023/poster/70466
+url_code: ''
+projects:
+  - internal-project
+slides:
+---
+
+
+
+Citation:
