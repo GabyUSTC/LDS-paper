@@ -10,7 +10,7 @@ authors:
   - yuangao 
   - Qing Cui 
   - Longfei Li 
-  -Jun Zhou
+  - Jun Zhou
   - xiangwang
 # 论文接受/发表日期
 date: '2024-02-01T00:00:00Z'

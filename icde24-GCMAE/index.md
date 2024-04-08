@@ -36,7 +36,7 @@ publication_short: In *ICDE'24*
 abstract: "Masked modeling has recently achieved remarkable success in specific fields of vision and language, sparking a surge of interest in graph-related research.
 However, Masked Graph Modeling (MGM), which captures fine-grained local information by masking low-level elements such as nodes, edges, and features, limits itself to a sub-optimal position, particularly on tasks requiring high-quality graph-level representations.
 Such a local perspective disregards the graph's global information and structure.
-To address these limitations, we propose a novel graph pre-training framework called \underline{G}raph \underline{C}ontrastive \underline{M}asked \underline{A}utoencoder (GCMAE).
+To address these limitations, we propose a novel graph pre-training framework called Graph Contrastive Masked Autoencoder (GCMAE).
 GCMAE leverages the strengths of both MGM and Graph Contrastive Learning (GCL) to provide a more comprehensive perspective of both local and global.
 Our framework uses instance discrimination to learn global representations of graphs and reconstructs the graph using masked low-level elements.
 We augment the framework with a novel multi-view augmentation module to further enhance the pre-trained model's robustness and generalization ability.

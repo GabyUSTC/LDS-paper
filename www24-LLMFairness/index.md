@@ -4,7 +4,7 @@ authors:
   - mengjiang
   - keqinbao
   - jizhizhang
-  - wenjiewang
+  - Wenjie Wang
   - zhengyiyang
   - fulifeng
   - xiangnanhe
@@ -31,3 +31,11 @@ slides:
 
 
 Citation:
+```
+@inproceedings{jiang2024item,
+  title={Item-side Fairness of Large Language Model-based Recommendation System},
+  author={Jiang, Meng and Bao, Keqin and Zhang, Jizhi and Wang, Wenjie and Yang, Zhengyi and Feng, Fuli and He, Xiangnan},
+  booktitle={Proceedings of the ACM Web Conference 2024},
+  year={2024}
+}
+```
