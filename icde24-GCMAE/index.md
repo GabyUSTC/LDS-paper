@@ -11,7 +11,7 @@ authors:
   - xiangwang
 # 论文接受/发表日期
 date: '2023-12-01T00:00:00Z'
-publishDate: '2024-05-14T00:00:00Z'
+publishDate: '2023-12-01T00:00:00Z'
 
 # 如果有共一则接触下面两行的注释
 # author_notes:
@@ -46,11 +46,11 @@ Moreover, GCMAE outperforms existing MGM and GCL baselines, proving its effectiv
 
 featured: true
 
-# links:
+links:
   # - name: Custom Link
   #   url: http://example.org
 # pdf链接
-# url_pdf: 
+url_pdf: 
 # 代码链接
 url_code: 'https://github.com/lyc0930/GCMAE'
 
@@ -68,8 +68,8 @@ url_code: 'https://github.com/lyc0930/GCMAE'
 #   focal_point: ''
 #   preview_only: false
 
-# projects:
-#   - internal-project
+projects:
+  - internal-project
 
 ---
 
