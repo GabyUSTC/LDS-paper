@@ -41,7 +41,7 @@ links:
   # - name: Custom Link
   #   url: http://example.org
 # pdf链接
-url_pdf: None 
+url_pdf: 'https://arxiv.org/abs/2405.08582' 
 # 代码链接
 url_code: 'https://github.com/Jiaju-Chen/UpliftRec'
 
@@ -72,12 +72,12 @@ Citation:
   booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   series = {SIGIR '24},
   location = {Washington D.C., USA.},
-
+  doi={10.1145/3626772.3657736},
   numpages = {11},
   year = {2024}
 }
 ```
 
-<!-- url = {},
+<!-- url = {https://dl.acm.org/doi/10.1145/3626772.3657736},
 doi = {}, -->
 

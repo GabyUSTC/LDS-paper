@@ -3,12 +3,12 @@ title: 'Understanding and Counteracting Feature-Level Bias in Click-Through Rate
 
 authors:
   - jinqiujin
-  - sihaoding
-  - wenjiewang
+  - Sihao Ding
+  - Wenjie Wang
   - fulifeng
 
-date: '2023-03-05T00:00:00Z'
-publishDate: '2023-03-05T00:00:00Z'
+date: '2024-02-02T00:00:00Z'
+publishDate: '2024-02-02T00:00:00Z'
 doi: '10.1145/3589335.3651576'
 
 publication_types: ['1']
